@@ -1,4 +1,4 @@
-
+oo
 
 # Prompt Structuré pour Générer un Compte Rendu Académique
 
